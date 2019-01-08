@@ -58,7 +58,7 @@ hs_err_pid*
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-
+.idea/
 # CMake
 cmake-build-debug/
 cmake-build-release/
@@ -90,3 +90,4 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+src/main/resources/
